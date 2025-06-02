@@ -8,6 +8,10 @@ The project file is for FreeCADs new 1.0.0 version.
 </br></br>
 <img width="500"  src="2.png" />
 
+# Build
+On your own here. No time for a documentation. Tip: Use a 24V Fan and connect it to 12V to reduce noise. 
+</br></br>
+
 # Printsettings
 8mm Brim</br>
 Brim on outside only</br>
